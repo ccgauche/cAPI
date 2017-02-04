@@ -1,0 +1,5 @@
+main: com.ccgauche.API.API
+version: 1.0
+name: ccgaucheAPI
+description: ccgaucheAPI
+author: ccgauche
