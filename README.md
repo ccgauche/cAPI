@@ -1,10 +1,2 @@
-//Version 1.4.6
-
-ChangeLog:
-
--Nouveau système de criptographie
--Amélioration du système de menus
--Amélioration du système de kit
--bug-fix [c0053] Crash des menus sur spigot 1.8
--bug-fix [c0052] La criptographie ne prennait pas les clés de 00021300 à 00021400
--bug-fix [c0051] Les arumures enchantées buggaient
+J'arrive de l'aéroport Charles de Gaule , Le plus grand aéroport de France. Je m'appelle Aurélien Herderschträtten et je part en vacances pour 2 semaines. Dans la rue de Berteuille les voitures vrombissent. Cela fait déjà 2 heures que je marche. Il fait chaud. En juillet les températures à Paris peuvent atteindre 38°.Enfin l'hôtel de ville de Paris se dessine enfin. Il apparaît comme le soleil levant un matin d'été. Il a été reconstruit à cause d'un incendie  en 1871. Il est actuellement le centre administratif de Paris. Dessus les pigeons roucoulent.Les sirènes sonnent au loin.Cela ne m'étonne pas qu'il soit classé au Patrimoine mondial de l'Unesco
+. Je me rend actuellement au palais de justice de Paris. Il a été reconstruit au XIII ème siècle avant d'être agrandi au XIX siècle par Jean Nicolat Huyot. Mort pendant la construction il fut remplacé par Joseph Louis Duc et Honoré Daumet. Ce monument est incroyable tant par son histoire que par son physique. La cloche sonne 12 heures je vais manger. Hmm!!! Une cote de bœuf. Je me régale. La pause terminée. Je pars pour Note Dame de Paris un des monuments les plus visités de Paris. Cette majestueuse cathédrale et ses splendides vitraux a été construite entre 1163 et 1345 avant d'être rénovée au XIX ème siècle.
